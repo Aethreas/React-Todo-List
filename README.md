@@ -1,3 +1,6 @@
+### Focus
+This project was done to learn the basic synax of React.js and test components.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
